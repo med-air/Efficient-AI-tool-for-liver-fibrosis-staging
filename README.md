@@ -111,6 +111,7 @@ python test.py
 
 + It takes about 3 min to complete both training phase and testing phase on the example data (just 1 sample), while takes about 12 hour to train the model on the training set used in our paper.
 
+
 # Staging model
 
 ### 1. We first perform data preprocessing to crop the region of liver and spleen.
@@ -145,6 +146,11 @@ The 3D-image visualization is based on the code **[simpleITK-Snap](https://githu
 <p align="center">
 <img src="./demo.png" alt="intro" width="100%"/>
 </p>
+
+
+# Radiologist Complementarity Decision
+
+The code for this section is in the folder "DRCDS". The code is referenced from **[CoDoC](https://github.com/google-deepmind/codoc)**. Here, we have provided example data for training, validation, and testing in the /DRCDS/data/internal.
 
 
 # License
