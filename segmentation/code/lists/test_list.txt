@@ -1,0 +1,10 @@
+/../data/test/S0/R0001/
+/../data/test/S1/R0001/
+/../data/test/S2/R0001/
+/../data/test/S3/R0001/
+/../data/test/S4/R0001/
+/../data/test/S0\R0001/
+/../data/test/S1\R0001/
+/../data/test/S2\R0001/
+/../data/test/S3\R0001/
+/../data/test/S4\R0001/
