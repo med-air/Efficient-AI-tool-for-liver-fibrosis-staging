@@ -1,6 +1,6 @@
 # Introduction
 
-Pytorch implementation for paper **[Efficient Development and Comprehensive Evaluation of a Human-in-the-loop Artificial Intelligence Tool for Liver Fibrosis Staging in CT](https://github.com/med-air/Liver_Fibrosis_Staging_in_CT/)**
+Pytorch implementation for paper **[Deep learning – Radiologist Complementarity Decision System for Liver Fibrosis Staging on CT: A multi-center study](https://github.com/med-air/Efficient-AI-tool-for-liver-fibrosis-staging/)** (under review)
 
 This project includes four folders:
 1. data: store the data used in this project (for both segmentation and staging tasks).
